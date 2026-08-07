@@ -11,4 +11,5 @@ __pycache__/
 .DS_Store
 
 # Chat History
-data/chat_history/
+data/chat_history/*
+!data/chat_history/.gitkeep
