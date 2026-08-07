@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "How often should people with diabetes get a foot exam?"
+    },
+    {
+      "role": "assistant",
+      "content": "The frequency of foot exams for people with diabetes depends on their risk level:\n\n- **Very low risk** (no loss of protective sensation (LOPS) and no peripheral artery disease (PAD)): Annually\n- **Low risk** (LOPS or PAD): Every 6\u201312 months\n- **Moderate risk** (LOPS + PAD, or LOPS + foot deformity, or PAD + foot deformity): Every 3\u20136 months\n- **High risk** (LOPS or PAD and one or more of the following: history of foot ulcer, amputation, kidney failure): Every 1\u20133 months",
+      "sources": [
+        {
+          "title": "Standards of Care in Diabetes-2026",
+          "citation": "American Diabetes Association. Standards of Care in Diabetes\u20142026. Diabetes Care. 2026;49(Suppl 1).",
+          "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1",
+          "pages": [
+            69,
+            275,
+            276,
+            316
+          ]
+        },
+        {
+          "title": "Type 2 Diabetes in Adults: Management (NG28)",
+          "citation": "National Institute for Health and Care Excellence. Type 2 Diabetes in Adults: Management (NG28). Updated 2026.",
+          "source_url": "https://www.nice.org.uk/guidance/ng28",
+          "pages": [
+            117
+          ]
+        }
+      ],
+      "drugs": []
+    },
+    {
+      "role": "user",
+      "content": "what type of medications should an individual with type 2 diabetes and heart disease take?"
+    },
+    {
+      "role": "assistant",
+      "content": "For adults with type 2 diabetes and atherosclerotic cardiovascular disease, the treatment plan should include:\n\n- Modified-release metformin\n- An SGLT-2 inhibitor\n- Subcutaneous semaglutide (Ozempic), up to 1 mg once a week, for its cardiovascular, renal, and glycaemic benefits.\n\nIf metformin is contraindicated or not tolerated, the individual should be offered an SGLT-2 inhibitor and subcutaneous semaglutide (Ozempic).",
+      "sources": [
+        {
+          "title": "Standards of Care in Diabetes-2026",
+          "citation": "American Diabetes Association. Standards of Care in Diabetes\u20142026. Diabetes Care. 2026;49(Suppl 1).",
+          "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1",
+          "pages": [
+            62,
+            196,
+            239
+          ]
+        },
+        {
+          "title": "Type 2 Diabetes in Adults: Management (NG28)",
+          "citation": "National Institute for Health and Care Excellence. Type 2 Diabetes in Adults: Management (NG28). Updated 2026.",
+          "source_url": "https://www.nice.org.uk/guidance/ng28",
+          "pages": [
+            45,
+            75,
+            102
+          ]
+        }
+      ],
+      "drugs": [
+        {
+          "drug": "Metformin",
+          "class": "Biguanide"
+        },
+        {
+          "drug": "Semaglutide",
+          "class": "GLP-1 receptor agonist"
+        }
+      ]
+    }
+  ],
+  "last_drugs": [
+    {
+      "drug": "Metformin",
+      "class": "Biguanide"
+    },
+    {
+      "drug": "Semaglutide",
+      "class": "GLP-1 receptor agonist"
+    }
+  ]
+}

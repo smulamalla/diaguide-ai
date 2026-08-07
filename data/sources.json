@@ -1,0 +1,35 @@
+{
+    "ada_standards_of_care_2026.pdf": {
+        "title": "Standards of Care in Diabetes-2026",
+        "organization": "American Diabetes Association (ADA)",
+        "year": 2026,
+        "version": "2026",
+        "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1",
+        "document_type": "Clinical Guideline",
+        "specialty": "Diabetes",
+        "citation": "American Diabetes Association. Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1).",
+        "publisher": "Diabetes Care"
+    },
+    "cdc_diabetes_statistics_2026.pdf": {
+        "title": "National Diabetes Statistics Report",
+        "organization": "Centers for Disease Control and Prevention (CDC)",
+        "year": 2026,
+        "version": "2026",
+        "source_url": "https://usdss.cdc.gov/diabetes/report.html",
+        "document_type": "National Surveillance Report",
+        "specialty": "Diabetes",
+        "citation": "Centers for Disease Control and Prevention. National Diabetes Statistics Report. 2026.",
+        "publisher": "Centers for Disease Control and Prevention"
+    },
+    "nice_diabetes_guidance_2026.pdf": {
+        "title": "Type 2 Diabetes in Adults: Management (NG28)",
+        "organization": "National Institute for Health and Care Excellence (NICE)",
+        "year": 2026,
+        "version": "NG28",
+        "source_url": "https://www.nice.org.uk/guidance/ng28",
+        "document_type": "Clinical Guideline",
+        "specialty": "Diabetes",
+        "citation": "National Institute for Health and Care Excellence. Type 2 Diabetes in Adults: Management (NG28). Updated 2026.",
+        "publisher": "National Institute for Health and Care Excellence"
+    }
+}
