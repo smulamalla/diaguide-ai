@@ -9,3 +9,6 @@ __pycache__/
 
 # MacOS Files
 .DS_Store
+
+# Chat History
+data/chat_history/
